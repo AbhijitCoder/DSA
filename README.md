@@ -24,7 +24,7 @@ This repository is for my regular practice of Data Structures and Algorithms.
 
 ## 🗂️ Folder Structure
 
-DSA-Practice/
+DSA/
 │
 ├── Arrays/
 ├── Strings/
