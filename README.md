@@ -27,6 +27,7 @@ This repository is for my regular practice of Data Structures and Algorithms.
 DSA/
 │
 ├── Arrays/
+├──Hashing/
 ├── Strings/
 ├── LinkedList/
 ├── Stack/
